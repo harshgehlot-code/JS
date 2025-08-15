@@ -10,13 +10,22 @@
 // "33" => 33
 //  "33aba" => NaN , not a number
 
-let isLoggedIn = 1
+// let isLoggedIn = 1
 
-let booleanIsLoggedIn = Boolean(isLoggedIn)
-console.log(booleanIsLoggedIn)
+// let booleanIsLoggedIn = Boolean(isLoggedIn)
+// console.log(booleanIsLoggedIn)
 
-let someNumber = 33
+// let someNumber = 33
 
-let stringNumber = String(someNumber)
- console.log(stringNumber);
- console.log(typeof stringNumber);
+// let stringNumber = String(someNumber)
+//  console.log(stringNumber);
+//  console.log(typeof stringNumber);
+
+
+// *************************operation**************************
+
+
+let value = 3
+let negValue = -value
+console.log(negValue)
+
