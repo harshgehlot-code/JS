@@ -28,3 +28,4 @@ console.log(newStrings.trim())
 const url = "https://harshgehlot%20harsh.com"
 
 console.log(url.replace('%20', '-'))
+
