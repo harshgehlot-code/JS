@@ -1,7 +1,7 @@
 
-"use strict" ; // treat all JS code as never version 
+"use strict"; // treat all JS code as never version 
 
-// alert("hello") we are using node js , not browser
+// alert("hello") we are using node js , not browser 
 
 let name = "hitesh"
 let age = 24
@@ -17,6 +17,8 @@ let isLoggedIn = false
 
 // object 
 
-console.log(typeof "hitech")
-console.log(typeof null) //object
-console.log(typeof undefined) // undefined
+// console.log(typeof "hitech")
+// console.log(typeof null) //object
+// console.log(typeof undefined) // undefined
+
+

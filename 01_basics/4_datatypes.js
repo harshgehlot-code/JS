@@ -1,7 +1,15 @@
+//  js is dynamin typed language 
 
 // Primitive 
+    /* 
+        7  types : string , Number, Boolean, undefined , symbol, BigInt,
+    */
+   
+//  Non Primitive or Reference 
+    /* 
+        Array Objects, Function 
+    */
 
-//  Non Primitive
 
 // Stack(primitive) and Heap(Non Primitive)
 
