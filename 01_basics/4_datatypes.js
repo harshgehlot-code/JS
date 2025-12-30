@@ -7,7 +7,7 @@
    
 //  Non Primitive or Reference 
     /* 
-        Array Objects, Function 
+        Array, Objects, Function 
     */
 
 
@@ -19,8 +19,8 @@ let myYtname = "harsh"
 let anothername = myYtname
 anothername = "harsh1"
 
-console.log(myYtname)
-console.log(anothername)
+// console.log(myYtname)
+// console.log(anothername)
 
 
 let userOne = {
